@@ -1,0 +1,56 @@
+.navbar{
+  padding: 3px 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.arrangement{
+  padding: 3px 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: beige;
+}
+
+.logo{
+  display: flex;
+  justify-items: center;
+}
+
+.logo span{
+  margin-top: 5px;
+  font-weight: 800;
+}
+
+.logo img {
+  width: 32px;
+  height: 32px;
+  margin-right: 5px;
+}
+
+body {
+  background-color: #dae0e6;
+}
+
+.articles{
+  margin: auto;
+  width: 1080px;
+  padding-top: 20px;
+}
+
+div article {
+  padding-left: 20px;
+  width: 800px;
+  
+}
+
+.designBox {
+  display: flex;
+  margin-right: 5px;
+  width: 1080px;
+  margin-top: 20px;
+}
+
+.voteBox {
+  justify-self: center;
+}
